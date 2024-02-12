@@ -9,8 +9,11 @@ This repo contains only the front end code. Refer to the README file in the gene
 -**AWS Lambda Function Integration**: The script is designed to interact with AWS Lambda Functions, enabling seamless automation of serverless backend processes.
 
 -**AWS API Gateway compatibility**: The script can be called via AWS API Gateway, facilitating ease in constructing, deploying, and managing APIs.
+
 -**Real-time Price Fetching**: The function efficiently pulls out price details from a script running locally, enabling real-time data retrieval.
+
 -**Geocoding feature**: It uses Google's Map Geocoding API to converts addresses into geocode.
+
 -**Replicability**: The function can be used in diverse locales by merely replacing the ngrok link and the relevant endpoint in the script.
 
 
